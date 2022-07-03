@@ -10,5 +10,10 @@ estructura necesaria para comenzar nuevos proyectos de programacion.
 - Gradle 4.9
 - jdk 1.8
 - Intellij Idea
+- Cucumber4
+- Gherkin
+
+## Ejecución del proyecto 
+Para ejecutar el proyecto desde el IDE Intellij Idea, se debe ejcutar el archivo _WikipediaRunner_ 
 
 
