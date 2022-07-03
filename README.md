@@ -14,8 +14,8 @@ estructura necesaria para comenzar nuevos proyectos de automatización.
 - Gherkin
 
 ## Ejecución del proyecto 
-Para ejecutar el proyecto desde el IDE Intellij Idea, se debe ejcutar el archivo _WikipediaRunner_ , tabimén se púede descargar y ejecutar el proyecto 
-con el comando `gradle test`
+Para ejecutar el proyecto desde el IDE Intellij Idea, se debe ejcutar el archivo _WikipediaRunner_, también se puede descargar y ejecutar el proyecto 
+con el comando `gradle test` 
 
 
 
