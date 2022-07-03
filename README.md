@@ -6,7 +6,7 @@ web de _Wikipedia_. Este ejemplo sirve como base o plantilla don de se va encont
 estructura necesaria para comenzar nuevos proyectos de programacion.
 
 
-#Herramientas utilizadas
+# Herramientas utilizadas
 - Gradle 4.9
 - jdk 1.8
 - Intellij Idea
